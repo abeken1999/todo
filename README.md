@@ -17,8 +17,3 @@
 - **バックエンド**：Firebase (認証とFirestore)
 - **デプロイ**：Vercel
 
-## セットアップ
-
-1. リポジトリをクローンします：
-   ```bash
-   git clone https://github.com/abeken1999/todo.git
