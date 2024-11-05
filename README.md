@@ -14,6 +14,6 @@
 
 ## 使用技術
 - **フロントエンド**：TypeScript, Next.js
-- **バックエンド**：Firebase (認証とFirestore)
+- **バックエンド**：Firebase (AuthenticationとFirestore)
 - **デプロイ**：Vercel
 
